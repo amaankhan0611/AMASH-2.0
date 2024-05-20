@@ -1,0 +1,1422 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+/*SideMenu Bar*/
+.SideMenu-Bar {
+    position: absolute;
+    left: 0px;
+    width: 104px;
+    height: 982px;
+}
+
+.menu-main-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 200px;
+}
+.menu-main-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-games-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    /*background-color: #194bfb;*/
+    top: 220px;
+}
+.menu-games-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-accessories-section {
+    position: relative;
+    background-color: #11121b;
+    width: 100%;
+    height: 48px;
+    top: 280px;
+    /*background-color: #194bfb;*/
+}
+.indicator-sidemenu {
+    position: absolute;
+    border-radius: 0px 16px 16px 0px;
+    background-color: #a8f63c;
+    width: 5%;
+    height: 48px;
+}
+.menu-accesories-icon {
+    position: relative;
+    width: 100%;
+    height: 22px;
+    bottom: 30px;
+}
+
+.menu-gpu-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 260px;
+    /*background-color: #194bfb;*/
+}
+.menu-gpu-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-folder-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 280px;
+    /*background-color: #194bfb;*/
+}
+.menu-folder-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-Community-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 300px;
+    /*background-color: #194bfb;*/
+}
+.menu-Community-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+/*SideMenu Bar Ends*/
+
+.background-31-rightmenu-31-dar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 462px;
+    height: 982px;
+}
+.rightmenu-31-darkmodehome {
+    position: absolute;
+    top: 2px;
+    left: 917px;
+    width: 462px;
+    height: 982px;
+}
+.dashboard-31-darkmodehome {
+    position: absolute;
+    top: 29px;
+    left: 1145px;
+    border-radius: 16px;
+    width: 163px;
+    height: 65px;
+}
+.gaming-website-logo-name-amash-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 73px;
+    height: 73px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.vector-31-searchbar-31-navbar-icon {
+    position: relative;
+    width: 20.5px;
+    height: 20.5px;
+}
+.search-31-searchbar-31-navbar- {
+    position: relative;
+}
+.searchbar-31-navbar-31-darkmod {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 219px);
+    border-radius: 21px;
+    background-color: #11121b;
+    width: 434px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 16px;
+    box-sizing: border-box;
+    gap: 12px;
+}
+.image-31-profile-31-navbar-31-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.chidieze-31-profile-31-navbar- {
+    position: absolute;
+    top: 5px;
+    left: 62px;
+    font-weight: 500;
+}
+.online-31-profile-31-navbar-31 {
+    position: absolute;
+    top: 30px;
+    left: 72px;
+    font-size: 10px;
+    color: #768192;
+}
+.iconlylightarrow-down3-31-prof {
+    position: absolute;
+    top: 8px;
+    left: 139px;
+    width: 12px;
+    height: 12px;
+    object-fit: cover;
+}
+.ellipse100-31-profile-31-navba {
+    position: absolute;
+    top: 34px;
+    left: 62px;
+    border-radius: 50%;
+    background-color: #a8f63c;
+    width: 4px;
+    height: 4px;
+}
+.profile-31-navbar-31-darkmodeh {
+    position: absolute;
+    top: 14px;
+    left: 1129px;
+    width: 151px;
+    height: 48px;
+    font-size: 14px;
+    color: #fff;
+}
+.line-31-navbar-31-darkmodehome {
+    position: absolute;
+    top: 13.75px;
+    left: 1106.75px;
+    border-right: 0.5px solid rgba(118, 129, 146, 0);
+    box-sizing: border-box;
+    width: 0.5px;
+    height: 48.5px;
+}
+.settings-31-navbar-31-darkmode-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 14px;
+    left: 886px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.iconlybulksetting-31-settings- {
+    position: relative;
+    top: 12px;
+    width: 100%;
+    height: 24px;
+}
+.notification-31-navbar-31-dark-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 13.88px;
+    left: 954px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.cart-31-navbar-31-darkmodehome-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 12px;
+    left: 1022px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.navbar-31-darkmodehome {
+    position: absolute;
+    top: 24px;
+    left: 23px;
+    width: 1280px;
+    height: 73px;
+    text-align: left;
+    font-size: 10px;
+    color: #768192;
+}
+.line4-31-darkmodehome {
+    position: absolute;
+    top: 1761.5px;
+    left: 39.5px;
+    border-top: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.line4-31-darkmodehome1 {
+    position: absolute;
+    top: 910.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.line6-31-darkmodehome {
+    position: absolute;
+    top: 3108.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.line6-31-darkmodehome1 {
+    position: absolute;
+    top: 2582.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.line3-31-darkmodehome {
+    position: absolute;
+    top: 206.5px;
+    left: 99.5px;
+    border-right: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1px;
+    height: 828.05px;
+}
+.seemore-31-darkmodehome {
+    position: absolute;
+    top: 846px;
+    left: 786px;
+    width: 45px;
+}
+.rectangle43106-31-footer-31-da-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1439px;
+    height: 404px;
+    object-fit: cover;
+}
+.line7-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 85.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(124, 124, 165, 0);
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.rectangle43107-31-footer-31-da-icon {
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    width: 77px;
+    height: 74px;
+    object-fit: cover;
+}
+.amash-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 15px;
+    left: 98px;
+    font-size: 27px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    font-family: 'Inknut Antiqua';
+    color: #c75b4e;
+    display: inline-block;
+    width: 127px;
+    height: 68px;
+}
+.about-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 104px;
+    left: 100px;
+    font-size: 17px;
+    display: inline-block;
+    width: 52px;
+    height: 17px;
+}
+.products-31-footer-31-darkmode {
+    position: absolute;
+    top: 104px;
+    left: 290px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.resources-31-footer-31-darkmod {
+    position: absolute;
+    top: 104px;
+    left: 453px;
+    font-size: 17px;
+    display: inline-block;
+    width: 93px;
+    height: 17px;
+}
+.connect-31-footer-31-darkmodeh {
+    position: absolute;
+    top: 104px;
+    left: 625px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.vector-31-footer-31-darkmodeho-icon {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 55.11%;
+    bottom: 61.39%;
+    left: 43.71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.vector-31-footer-31-darkmodeho-icon1 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 53.3%;
+    bottom: 61.39%;
+    left: 45.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.vector-31-footer-31-darkmodeho-icon2 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.46%;
+    top: 34.41%;
+    right: 51.22%;
+    bottom: 61.39%;
+    left: 47.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.vector-31-footer-31-darkmodeho-icon3 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.74%;
+    top: 34.41%;
+    right: 46.63%;
+    bottom: 61.39%;
+    left: 51.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.vector-31-footer-31-darkmodeho-icon4 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.6%;
+    top: 34.41%;
+    right: 48.99%;
+    bottom: 61.39%;
+    left: 49.41%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.about-amash {
+    margin-block-start: 0;
+    margin-block-end: 6px;
+}
+.corporate {
+    margin: 0;
+}
+.aboutamashcareersamashstudiosa {
+    position: absolute;
+    top: 134px;
+    left: 100px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.accessoriesgamesgpuxboxplatsta {
+    position: absolute;
+    top: 134px;
+    left: 290px;
+    font-weight: 500;
+}
+.support-a-creatordistributeona {
+    position: absolute;
+    top: 134px;
+    left: 453px;
+    font-weight: 500;
+}
+.iosappandroidapp-31-footer-31- {
+    position: absolute;
+    top: 168px;
+    left: 629px;
+    font-weight: 500;
+}
+.amash {
+    margin-block-start: 0;
+    margin-block-end: 1px;
+}
+.more-info1 {
+    text-decoration: underline;
+}
+.more-info {
+    color: inherit;
+}
+.amashallcontentgamestitlestrad {
+    position: absolute;
+    top: 366px;
+    left: 100px;
+    font-weight: 500;
+}
+.termsofserviceprivacypolicyref {
+    position: absolute;
+    top: 379px;
+    left: 1150px;
+    font-weight: 500;
+    white-space: pre-wrap;
+}
+.footer-31-darkmodehome {
+    position: absolute;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    top: 3931px;
+    left: 0px;
+    width: 1469px;
+    height: 404px;
+    text-align: left;
+    font-size: 10px;
+}
+.accessories-child {
+    position: absolute;
+    top: 2112px;
+    left: 562px;
+    width: 315px;
+    height: 531px;
+}
+.accessories-item {
+    position: absolute;
+    top: 2112px;
+    left: 1025px;
+    width: 315px;
+    height: 531px;
+}
+
+
+
+
+
+
+.add-button {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 140px;
+    height: 50px;
+}
+.headphones1 {
+    position: absolute;
+    top: 9px;
+    left: 16px;
+    line-height: 32px;
+}
+.headphones {
+    position: absolute;
+    top: 0px;
+    left: 362px;
+    width: 140px;
+    height: 50px;
+}
+.add-button1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 111px;
+    height: 50px;
+}
+.controller1 {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+    line-height: 32px;
+}
+.controller {
+    position: absolute;
+    top: 0px;
+    left: 571px;
+    width: 111px;
+    height: 50px;
+}
+.add-button2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    box-shadow: 4px 4px 20px rgba(255, 255, 255, 0.25), 4px 4px 15px rgba(255, 255, 255, 0.5) inset;
+    width: 105px;
+    height: 50px;
+}
+.consoles {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 105px;
+    height: 50px;
+}
+.add-button3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 119px;
+    height: 50px;
+}
+.keyboards1 {
+    position: absolute;
+    top: 9px;
+    left: 14px;
+    line-height: 32px;
+}
+.keyboards {
+    position: absolute;
+    top: 0px;
+    left: 174px;
+    width: 119px;
+    height: 50px;
+}
+.menuaccessories {
+    position: absolute;
+    top: 0px;
+    left: 213px;
+    width: 682px;
+    height: 50px;
+}
+.amash1 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    line-height: 32px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 212px;
+    height: 53px;
+}
+.accessories2 {
+    position: absolute;
+    top: 4px;
+    left: 248px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 337px;
+    height: 52px;
+}
+.title-child {
+    position: absolute;
+    top: 0px;
+    left: 202px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+}
+.r {
+    position: absolute;
+    top: 0px;
+    left: 202px;
+    font-size: 18px;
+    line-height: 32px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 19px;
+}
+.title {
+    position: relative;
+    width: 585px;
+    height: 57px;
+}
+.build-your-perfect {
+    position: relative;
+    font-size: 18px;
+    line-height: 32px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 693px;
+    opacity: 0.8;
+}
+.background-31-banner-31-darkmo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+}
+.banner-31-darkmodehome {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    opacity: 0.5;
+}
+.main1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    opacity: 0.8;
+}
+.Main-banner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0.1%;
+    right: 0.03%;
+    bottom: 11.83%;
+    left: 0.09%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.herosection {
+    position: relative;
+    border-radius: 18px;
+    width: 1176.38px;
+    height: 431px;
+    background-image: url('HeroSection.png');
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          }
+          .title-parent {
+                position: absolute;
+                top: 110px;
+                left: 0px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 25px;
+                font-size: 67px;
+                font-family: 'Times New Roman';
+          }
+          .main {
+                position: absolute;
+                top: 157px;
+                left: 166px;
+                width: 1176.38px;
+                height: 712px;
+                font-size: 18px;
+          }
+          .component-7 {
+                position: absolute;
+                top: 1152px;
+                left: 482px;
+          }
+          .wireless {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                line-height: 32px;
+                text-transform: capitalize;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 254px;
+                height: 53px;
+          }
+          .controllers {
+                position: absolute;
+                top: 0px;
+                left: 265px;
+                line-height: 32px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 337px;
+                height: 52px;
+          }
+          .title1 {
+                position: relative;
+                width: 602px;
+                height: 53px;
+          }
+          .title-group {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 25px;
+          }
+          .frame-container {
+                position: relative;
+                width: 693px;
+                height: 217px;
+                flex-shrink: 0;
+          }
+          .frame-wrapper {
+                position: absolute;
+                top: -10px;
+                left: 264px;
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                padding: 10px;
+          }
+          .dualsense-card-child {
+                position: absolute;
+                top: 0px;
+                left: 1px;
+                width: 610px;
+                height: 484px;
+          }
+          .wireless-controller-left-frame {
+                position: relative;
+                width: 610px;
+                height: 246px;
+                object-fit: cover;
+          }
+          .dualsense-wireless-controller {
+                position: relative;
+                font-size: 26px;
+                line-height: 32px;
+                text-transform: capitalize;
+                font-weight: 600;
+                text-align: center;
+          }
+          .d {
+                text-transform: uppercase;
+          }
+          .iscover-a-deeper {
+                text-transform: lowercase;
+          }
+          .discover-a-deeper-container1 {
+                width: 100%;
+          }
+          .discover-a-deeper-container {
+                position: relative;
+                line-height: 32px;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 545px;
+          }
+          .add-button4 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                border-radius: 100px;
+                background: linear-gradient(135deg, #35aaff, #194bfb);
+                width: 156px;
+                height: 32px;
+          }
+          .discover-more1 {
+                position: absolute;
+                top: 3px;
+                left: 29px;
+                line-height: 32px;
+                text-transform: capitalize;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 98px;
+                height: 25px;
+          }
+          .discover-more {
+                position: relative;
+                width: 156px;
+                height: 32px;
+          }
+          .dualsense-wireless-controller-parent {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 14px;
+          }
+          .rectangle-parent {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 7px;
+          }
+          .dualsense-card-inner {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 610px;
+                height: 441px;
+          }
+          .dualsense-card {
+                position: relative;
+                width: 611px;
+                height: 484px;
+          }
+          .wireless-controller-right {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 610px;
+                height: 246px;
+                object-fit: cover;
+          }
+          .dualsense-edge-wireless-contr-parent {
+                position: absolute;
+                top: 253px;
+                left: 56px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 14px;
+          }
+          .dualsense-card-parent {
+                position: absolute;
+                height: 100%;
+                width: 100%;
+                top: 0%;
+                right: 0%;
+                bottom: 0%;
+                left: 0%;
+                display: flex;
+                flex-direction: row;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 19px;
+          }
+          .ps5-controllers {
+                position: absolute;
+                height: 83.3%;
+                width: 100%;
+                top: 16.7%;
+                right: 0%;
+                bottom: 0%;
+                left: 0%;
+          }
+          .button {
+                position: relative;
+                line-height: 32px;
+          }
+          .controller-trigger {
+                border-radius: 35px;
+                background: linear-gradient(135deg, #35aaff, #194bfb);
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                padding: 5px 12.5px;
+          }
+          .button-wrapper {
+                border-radius: 35px;
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                padding: 5px 12.5px;
+          }
+          .controller-trigger-parent {
+                position: absolute;
+                height: 8.95%;
+                width: 44.88%;
+                top: 0%;
+                right: 27.56%;
+                bottom: 91.05%;
+                left: 27.56%;
+                border-radius: 91px;
+                background-color: rgba(37, 115, 253, 0.5);
+                display: flex;
+                flex-direction: row;
+                align-items: flex-start;
+                justify-content: flex-start;
+                padding: 5px;
+                box-sizing: border-box;
+                gap: 69px;
+                text-align: center;
+                font-size: 16px;
+          }
+          .controller-slider {
+                position: absolute;
+                top: 165px;
+                left: 0px;
+                width: 1241px;
+                height: 581px;
+                text-align: left;
+                font-size: 14px;
+                font-family: Inter;
+          }
+          .frame-parent {
+                position: absolute;
+                top: 962px;
+                left: 99px;
+                width: 1241px;
+                height: 746px;
+                font-family: 'Times New Roman';
+          }
+          .pulse-3d {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                line-height: 32px;
+                text-transform: capitalize;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 386px;
+                height: 53px;
+          }
+          .wireless-headset {
+                position: absolute;
+                top: 0px;
+                left: 399px;
+                line-height: 32px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 464px;
+                height: 52px;
+          }
+          .title2 {
+                position: relative;
+                width: 863px;
+                height: 53px;
+          }
+          .elevate-your-in-game {
+                position: relative;
+                font-size: 18px;
+                line-height: 32px;
+                text-transform: capitalize;
+                font-weight: 600;
+                font-family: Inter;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 778px;
+                opacity: 0.8;
+          }
+          .title-container {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 25px;
+          }
+          .headset-main {
+                position: relative;
+                width: 963px;
+                height: 390px;
+                object-fit: cover;
+          }
+          .frame-div {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 40px;
+          }
+          .discover-a-headset-container {
+                position: relative;
+                line-height: 32px;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 761px;
+          }
+          .add-button6 {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                border-radius: 100px;
+                background: linear-gradient(135deg, #35aaff, #194bfb);
+                width: 167px;
+                height: 40px;
+          }
+          .enhance {
+                text-transform: capitalize;
+          }
+          .enhance-your-audio-container {
+                position: absolute;
+                top: 7px;
+                left: 17px;
+                line-height: 32px;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 133px;
+                height: 25px;
+          }
+          .add-button-parent {
+                position: relative;
+                width: 167px;
+                height: 40px;
+                text-align: left;
+          }
+          .discover-a-headset-fine-tuned-parent {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 27px;
+                font-size: 14px;
+                font-family: Inter;
+          }
+          .frame-group {
+                position: absolute;
+                top: 1802px;
+                left: 264px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 31px;
+                font-family: 'Times New Roman';
+          }
+          .prefer-to-play {
+                position: absolute;
+                top: 3210px;
+                left: 331px;
+                font-size: 18px;
+                line-height: 28px;
+                text-transform: capitalize;
+                font-weight: 600;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 778px;
+                opacity: 0.8;
+          }
+          .accessories-sliderframe-29 {
+                position: absolute;
+                top: 2728px;
+                left: 0px;
+                width: 1440px;
+                height: 357px;
+          }
+          .latest-amash-accessories {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                line-height: 32px;
+                text-transform: capitalize;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 868px;
+                height: 53px;
+          }
+          .title3 {
+                position: relative;
+                width: 868px;
+                height: 53px;
+          }
+          .dropshadow-box-child {
+                position: absolute;
+                height: 100%;
+                width: 100%;
+                top: 0%;
+                right: 0%;
+                bottom: 0%;
+                left: 0%;
+                border-radius: 14px;
+                background-color: #09080f;
+                box-shadow: 2px 2px 6px rgba(255, 255, 255, 0.25), 0px 2px 6px 2px rgba(0, 0, 0, 0.25) inset;
+                border: 1px solid #768192;
+                box-sizing: border-box;
+          }
+          .dropshadow-box-item {
+                position: absolute;
+                height: 49.07%;
+                width: 95%;
+                top: 2.57%;
+                right: 2.5%;
+                bottom: 48.36%;
+                left: 2.5%;
+                border-radius: 10px;
+                filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.25)) drop-shadow(-2px -2px 4px rgba(0, 0, 0, 0.25));
+          }
+          .dropshadow-box {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                width: 295px;
+                height: 357px;
+          }
+          .frame-inner {
+                position: relative;
+                border-radius: 16px;
+                width: 229px;
+                height: 164px;
+                object-fit: cover;
+          }
+          .lebron-james-limited {
+                position: relative;
+                line-height: 17px;
+                font-weight: 600;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 211px;
+          }
+          .build-uplift-empower {
+                position: relative;
+                font-size: 14px;
+                line-height: 20px;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 263px;
+          }
+          .rectangle-group {
+                position: absolute;
+                top: 24px;
+                left: 16px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 10px;
+          }
+          .dropshadow-box-parent {
+                position: relative;
+                width: 295px;
+                height: 357px;
+          }
+          .group-parent {
+                position: absolute;
+                top: 0px;
+                left: -201px;
+                display: flex;
+                flex-direction: row;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 20px;
+          }
+          .button-right-icon {
+                position: absolute;
+                top: 163px;
+                left: 1320px;
+                width: 51px;
+                height: 32px;
+                object-fit: cover;
+          }
+          .button-left-icon {
+                position: absolute;
+                top: 172px;
+                left: 97px;
+                width: 49px;
+                height: 32px;
+                object-fit: cover;
+          }
+          .accessories-slider {
+                position: relative;
+                width: 1440px;
+                height: 357px;
+                overflow: hidden;
+                flex-shrink: 0;
+                font-size: 15px;
+                font-family: Inter;
+          }
+          .title-parent1 {
+                position: absolute;
+                top: 2623px;
+                left: 0px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                gap: 36px;
+                font-family: 'Times New Roman';
+          }
+          .specialty-controllers {
+                position: absolute;
+                top: 3135px;
+                left: 286px;
+                line-height: 32px;
+                text-transform: capitalize;
+                display: flex;
+                font-family: 'Times New Roman';
+                align-items: center;
+                justify-content: center;
+                width: 868px;
+                height: 53px;
+          }
+          .Controller-steering {
+                position: relative;
+                width: 40%;
+                height: 40%;
+          }
+          .Controller-flightstick {
+                position: relative;
+                top: 20px;
+                width: 50%;
+                height: 50%;
+                left: 15%;
+          }
+          .feel-even-greater {
+                position: relative;
+                line-height: 32px;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 552px;
+          }
+          .add-button7 {
+                position: relative;
+                border-radius: 100px;
+                background: linear-gradient(135deg, #35aaff, #194bfb);
+                width: 156px;
+                height: 32px;
+                flex-shrink: 0;
+                z-index: 0;
+          }
+          .discover-more5 {
+                position: absolute;
+                margin: 0 !important;
+                top: 3px;
+                left: 29px;
+                line-height: 32px;
+                text-transform: capitalize;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                width: 98px;
+                height: 25px;
+                flex-shrink: 0;
+                z-index: 1;
+          }
+          .add-button-group {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 10px;
+          }
+          .racing-wheels-parent {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                padding: 0px 60px;
+                gap: 14px;
+          }
+          .Controller-Left {
+                position: absolute;
+                top: 3309px;
+                left: 99px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 32px;
+                text-align: left;
+                font-size: 14px;
+          }
+          .tflight-hotas-4-flight-stick-parent {
+                flex-shrink: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                padding: 0px 64px;
+                gap: 14px;
+          }
+          .Controller-Right {
+                position: absolute;
+                top: 3306px;
+                left: 730px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: flex-start;
+                gap: 102px;
+                text-align: left;
+                font-size: 14px;
+          }
+          .accessories {
+                position: relative;
+                border-radius: 25px;
+                background-color: #09080f;
+                width: 100%;
+                height: 4335px;
+                overflow: hidden;
+                text-align: center;
+                font-size: 67px;
+                color: #fff;
+                font-family: Inter;
+          }
+          
+          

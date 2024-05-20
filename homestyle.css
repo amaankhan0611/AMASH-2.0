@@ -1,0 +1,2712 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.background-31-rightmenu-31-dar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 462px;
+    height: 982px;
+}
+
+
+.rectangle42639-31-rightmenu-31 {
+    position: absolute;
+    top: 146px;
+    left: 44px;
+    border-radius: 16px;
+    background-color: #11121b;
+    width: 379px;
+    height: 489px;
+}
+.vector-31-rightmenu-31-darkmod-icon {
+    position: absolute;
+    height: 0.95%;
+    width: 3.09%;
+    top: 18.02%;
+    right: 17.9%;
+    bottom: 81.02%;
+    left: 79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle42640-31-rightmenu-31 {
+    position: absolute;
+    top: 217px;
+    left: 71px;
+    border-radius: 16px;
+    background-color: #353856;
+    width: 313px;
+    height: 60px;
+}
+.social-31-rightmenu-31-darkmod {
+    position: absolute;
+    top: 167px;
+    left: 69px;
+}
+.seemoregames-31-seemoregames-3 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.iconlylightarrow-right-31-seem {
+    position: relative;
+    width: 16px;
+    height: 16px;
+}
+.arrow-right-31-iconlylightarro {
+    position: relative;
+    top: 1px;
+    width: 100%;
+    height: 9.03px;
+    }
+.seemoregames-31-mostplayed-31- {
+    position: absolute;
+    top: 253px;
+    left: 129px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+    cursor: pointer;
+}
+.span {
+    font-weight: 600;
+}
+.most-played {
+    font-weight: 500;
+}
+
+/*Sidemenu*/
+.menu-31-sidemenu-31-darkmodeho {
+    position: relative;
+    background-color: #11121b;
+    width: 100%;
+    height: 48px;
+    top: 200px;
+}
+.indicator-31-sidemenu-31-darkm {
+    position: absolute;
+    border-radius: 0px 16px 16px 0px;
+    background-color: #a8f63c;
+    width: 5%;
+    height: 48px;
+}
+.menu-main-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.dashboard-31-sidemenu-31-darkm {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    /*background-color: #194bfb;*/
+    top: 220px;
+}
+.game-31-sidemenu-31-darkmodeho-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+.dashboard-31-sidemenu-31-darkmode {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 240px;
+    /*background-color: #194bfb;*/
+}
+.accesories-31-sidemenu-31-dark-icon {
+    position: relative;
+    width: 100%;
+    height: 22px;
+    top: 10px;
+}
+.dashboard-31-sidemenu-31-darkmode-gpu {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 260px;
+    /*background-color: #194bfb;*/
+}
+.pcbuild-31-sidemenu-31-darkmod-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+.dashboard-31-sidemenu-31-darkmode-Folder {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 280px;
+    /*background-color: #194bfb;*/
+}
+.iconlybulkfolder-31-sidemenu-3 {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+.dashboard-31-sidemenu-31-darkmode-Community {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 300px;
+    /*background-color: #194bfb;*/
+}
+.communitu-31-sidemenu-31-darkm-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+/*Sidemenu End*/
+
+
+.mostplayed-31-mostplayed-31-ri {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: left;
+    font-family: Inter;
+}
+.mostplayed-31-rightmenu-31-dar {
+    position: absolute;
+    top: 330px;
+    left: 46px;
+    width: 249px;
+    height: 269px;
+    text-align: center;
+    font-size: 12px;
+}
+.loading-31-rightmenu-31-darkmo-icon {
+    position: absolute;
+    top: 228px;
+    left: 325px;
+    width: 35px;
+    height: 35px;
+}
+.rightmenu-31-darkmodehome {
+    position: absolute;
+    top: 2px;
+    left: 917px;
+    width: 462px;
+    height: 982px;
+    font-size: 20px;
+    color: #768192;
+}
+.rectangle42641-31-chat-31-dark {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: #11121b;
+    width: 379px;
+    height: 128px;
+}
+.partychat-31-title-31-chat-31- {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 95.5px;
+}
+.title-31-chat-31-darkmodehome {
+    position: absolute;
+    top: 23px;
+    left: 20px;
+    width: 95.5px;
+    height: 19px;
+    font-size: 16px;
+    color: #fff;
+}
+.call-31-chat-31-darkmodehome-icon {
+    position: absolute;
+    height: 20.25%;
+    width: 5.01%;
+    top: 17.19%;
+    right: 22.43%;
+    bottom: 62.56%;
+    left: 72.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.marcus16others-31-chat-31-dark {
+    position: absolute;
+    top: 48px;
+    left: 33px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+}
+.iconlybulkvoice-31-typemessage {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.typemessages-31-chat-31-darkmo {
+    position: absolute;
+    top: 68px;
+    left: 20px;
+    border-radius: 9px;
+    background-color: #0c0d15;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 16px;
+    gap: 132px;
+}
+.vector-31-chat-31-darkmodehome-icon {
+    position: absolute;
+    height: 11.81%;
+    width: 6.84%;
+    top: 21.09%;
+    right: 8.2%;
+    bottom: 67.09%;
+    left: 84.96%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.chat-31-darkmodehome {
+    position: absolute;
+    top: 924px;
+    left: 961px;
+    width: 379px;
+    height: 128px;
+    color: #768192;
+}
+.dashboard-31-darkmodehome {
+    position: absolute;
+    top: 29px;
+    left: 1145px;
+    border-radius: 16px;
+    width: 163px;
+    height: 65px;
+}
+.fortniteupdate-31-profile-31-n {
+    position: absolute;
+    top: 197px;
+    left: 0px;
+    font-weight: 600;
+}
+.minsremaining-31-profile-31-na {
+    position: absolute;
+    top: 217px;
+    left: 0px;
+    font-size: 8px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: #768192;
+}
+.profile-31-navbar-31-darkmodeh1 {
+    position: absolute;
+    top: 205px;
+    left: 242px;
+    font-size: 8px;
+    font-weight: 600;
+}
+.online-31-profile-31-navbar-31 {
+    position: absolute;
+    top: 30px;
+    left: 215px;
+    font-size: 10px;
+    color: #768192;
+}
+.iconlylightarrow-down3-31-prof {
+    position: absolute;
+    top: 8px;
+    left: 282px;
+    width: 12px;
+    height: 12px;
+}
+.ellipse100-31-profile-31-navba {
+    position: absolute;
+    top: 34px;
+    left: 205px;
+    border-radius: 50%;
+    background-color: #a8f63c;
+    width: 4px;
+    height: 4px;
+}
+.line-31-navbar-main {
+    position: absolute;
+    top: 14px;
+    left: 1107px;
+    width: 0px;
+    height: 48px;
+}
+.ellipse-31-notification-31-nav {
+    position: relative;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 14px;
+    }
+
+
+/*NavBar*/
+.navbar-main {
+    position: absolute;
+    top: 24px;
+    left: 23px;
+    width: 1280px;
+    height: 80px;
+}
+.navbar-logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 73px;
+    height: 73px;
+    object-fit: cover;
+}
+.navbar-searchbar {
+    position: absolute;
+    top: 12px;
+    left: 138px;
+    border-radius: 21px;
+    background-color: #11121b;
+    width: 290px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 16px;
+    box-sizing: border-box;
+    gap: 12px;
+    color: #768192;
+}
+.navbar-searchbar-searchicon {
+    position: relative;
+    width: 20.5px;
+    height: 20.5px;
+}
+.navbar-searchbar-searchtext {
+    position: relative;
+}
+.navbar-profile {
+    position: absolute;
+    top: 14px;
+    left: 986px;
+    width: 294px;
+    height: 227px;
+    font-size: 14px;
+}
+.navbar-profile-image {
+    position: absolute;
+    top: 0px;
+    left: 143px;
+    border-radius: 16px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.navbar-profile-name {
+    position: relative;
+    top: 5px;
+    left: 205px;
+    font-weight: 500;
+}
+.navbar-settings {
+    position: absolute;
+    background-color: #11121B;
+    top: 12px;
+    left: 639px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.navbar-settings-icon {
+    position: relative;
+    top: 12px;
+    width: 100%;
+    height: 24px;
+}
+.navbar-startstream {
+    position: absolute;
+    top: 12px;
+    left: 724px;
+    border-radius: 16px;
+    background-color: #11121b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 5px 16px 5px 5px;
+    gap: 14px;
+    font-size: 12px;
+}
+.navbar-startstream-icon {
+    border-radius: 10px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 38px;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 11px;
+    box-sizing: border-box;
+}
+.navbar-startstream-icon-img {
+    position: relative;
+    width: 15px;
+    height: 11.25px;
+}
+.navbar-startstream-icon-text {
+    position: relative;
+    line-height: 32px;
+    font-weight: 500;
+}
+.navbar-notification {
+    position: absolute;
+    background-color: #11121B;
+    top: 13.88px;
+    left: 954px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.navbar-notification-icon-img {
+    position: relative;
+    top: 12px;
+    width: 100%;
+    height: 24px;
+}
+.navbar-cart {
+    position: absolute;
+    background-color: #11121B;
+    top: 12px;
+    left: 1022px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.navbar-cart-icon-img {
+    position: relative;
+    top: 12px;
+    width: 100%;
+    height: 24px;
+}
+/*Navbar Ends*/
+
+
+
+
+
+
+
+
+.sidemenu-31-darkmodehome-icon {
+    position: absolute;
+    top: 42px;
+    left: 0px;
+    width: 104px;
+    height: 982px;
+}
+.background-31-banner-31-darkmo {
+    position: absolute;
+    top: 51.04px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: #11121b;
+    width: 725px;
+    height: 332.39px;
+}
+.spidermanimage-31-image-31-ban-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 725px;
+    height: 383.43px;
+    object-fit: cover;
+}
+.rectangle43073-31-image-31-ban-icon {
+    position: absolute;
+    background-color: #EB3E3E;
+    top: 88px;
+    left: 50px;
+    border-radius: 6px;
+    width: 38px;
+    height: 18px;
+}
+.new-31-image-31-banner-31-dark {
+    position: absolute;
+    top: 81px;
+    left: 56px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.particleeffect-31-image-31-ban-icon {
+    position: absolute;
+    top: 49.65px;
+    left: 304.75px;
+    width: 424.25px;
+    height: 335.16px;
+    object-fit: cover;
+}
+.cloudeffect2-31-image-31-banne-icon {
+    position: absolute;
+    top: 51.04px;
+    left: 0px;
+    width: 553.75px;
+    height: 270.88px;
+    object-fit: cover;
+}
+.cloudeffect1-31-image-31-banne-icon {
+    position: absolute;
+    top: 112.54px;
+    left: 171.25px;
+    border-radius: 0px 0px 16px 0px;
+    width: 553.75px;
+    height: 270.88px;
+    object-fit: cover;
+}
+.image-31-banner-31-darkmodehom {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    width: 725px;
+    height: 383.43px;
+    font-size: 11px;
+}
+.marvels-spider-man {
+    margin: 0;
+}
+.marvelsspider-manmylesmorales- {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 500;
+    display: inline-block;
+    width: 353.75px;
+    height: 83.75px;
+}
+.genres-31-title-31-banner-31-d {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #768192;
+    display: inline-block;
+    width: 37px;
+    height: 19px;
+}
+.actionopenworld-31-title-31-ba {
+    position: absolute;
+    top: 105px;
+    left: 0px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 95px;
+    height: 19px;
+}
+.cloudsavescontrollersupportsin {
+    position: absolute;
+    top: 105px;
+    left: 134px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 159px;
+    height: 37px;
+}
+.features-31-title-31-banner-31 {
+    position: absolute;
+    top: 86px;
+    left: 134px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #768192;
+    display: inline-block;
+    width: 44px;
+    height: 19px;
+}
+.title-31-banner-31-darkmodehom {
+    position: absolute;
+    top: 117px;
+    left: 51px;
+    width: 353.75px;
+    height: 142px;
+}
+.purchasebutton-31-banner-31-da1 {
+    position: absolute;
+    top: 9px;
+    left: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 16px;
+}
+.ellipse105-31-arrow-31-purchas {
+    position: relative;
+    border-radius: 100%;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    top: 3px;
+    left: 78%;
+    width: 20%;
+    height: 28px;
+}
+.arrow-31-purchasebutton-31-ban-icon {
+    position: absolute;
+    top: 7px;
+    left: 108px;
+    width: 20px;
+    height: 20px;
+}
+.line1-31-purchasebutton-31-ban {
+    position: absolute;
+    top: 25px;
+    left: 23px;
+    width: 1px;
+    height: 0px;
+    opacity: 0;
+}
+.purchasebutton-31-banner-31-da2 {
+    position: absolute;
+    top: -1px;
+    left: 71px;
+    font-size: 8px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.purchasebutton-31-banner-31-da {
+    position: absolute;
+    top: 293px;
+    left: 51px;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.05);
+    box-shadow: 0px 9px 24px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(8px);
+    border-bottom: 0.3px solid rgba(57, 64, 73, 0.5);
+    box-sizing: border-box;
+    width: 134px;
+    height: 34.13px;
+    text-align: center;
+}
+.banner-31-darkmodehome {
+    position: absolute;
+    top: 110px;
+    left: 162px;
+    width: 726px;
+    height: 383.43px;
+}
+.rectangle42642-31-group1-31-gr {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 16px;
+    background-color: #11121b;
+}
+.playstation-headphones-white-c-icon {
+    position: absolute;
+    height: 69.57%;
+    width: 69.57%;
+    top: 20.82%;
+    right: 15.01%;
+    bottom: 9.61%;
+    left: 15.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.group1-31-group2-31-darkmodeho {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.accessories-31-group2-31-darkm {
+    position: absolute;
+    top: 8.71%;
+    left: 8.3%;
+}
+.vector-31-group2-31-darkmodeho-icon {
+    position: absolute;
+    height: 4.56%;
+    width: 5.81%;
+    top: 11.2%;
+    right: 11.2%;
+    bottom: 84.24%;
+    left: 82.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group2-31-darkmodehome {
+    position: absolute;
+    top: 561px;
+    left: 161px;
+    width: 241px;
+    height: 241px;
+    font-size: 18px;
+    color: #768192;
+}
+.group6-31-vrhome-31-group4-31- {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 452px;
+    height: 241px;
+}
+.revolutionofvrheadsets-31-vrho {
+    position: absolute;
+    top: 77px;
+    left: 18px;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 500;
+    color: #fff;
+    display: inline-block;
+    width: 134px;
+    height: 84px;
+}
+.vrhome-31-group4-31-darkmodeho {
+    position: absolute;
+    top: 184px;
+    left: 0px;
+    width: 452px;
+    height: 241px;
+}
+.dashboard-31-group4-31-darkmod {
+    position: absolute;
+    top: 0px;
+    left: 527px;
+    border-radius: 8px;
+    width: 379px;
+    height: 72px;
+}
+
+.hrs34min-31-group3-31-group4-3 {
+    position: absolute;
+    top: 33px;
+    left: 103px;
+}
+.timecircle-31-group3-31-group4-icon {
+    position: absolute;
+    height: 18.05%;
+    width: 3.07%;
+    top: 50.07%;
+    right: 72.49%;
+    bottom: 29.88%;
+    left: 24.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.thewitcher3wildhunt-31-group3- {
+    position: absolute;
+    top: 10px;
+    left: 88px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+}
+.image-31-group3-31-group4-31-d-icon {
+    position: absolute;
+    top: 0px;
+    left: 18px;
+    border-radius: 12px;
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+}
+.indicator-31-group3-31-group4- {
+    position: absolute;
+    top: 13px;
+    left: 0px;
+    border-radius: 0px 16px 16px 0px;
+    background-color: #a8f63c;
+    width: 4px;
+    height: 29px;
+}
+.group3-31-group4-31-darkmodeho {
+    position: absolute;
+    height: 15.39%;
+    width: 39.51%;
+    top: 1.88%;
+    right: 2.1%;
+    bottom: 82.73%;
+    left: 58.39%;
+    font-size: 10px;
+}
+.group4-31-darkmodehome {
+    position: absolute;
+    top: 377px;
+    left: 434px;
+    width: 906px;
+    height: 425px;
+    font-size: 18px;
+    color: #768192;
+}
+.dashboard-31-group5-31-darkmod {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    width: 379px;
+    height: 72px;
+}
+.group5-31-darkmodehome {
+    position: absolute;
+    top: 463px;
+    left: 961px;
+    width: 379px;
+    height: 72px;
+}
+
+.hrs26min-31-darkmodehome {
+    position: absolute;
+    top: 504px;
+    left: 1064px;
+    color: #768192;
+}
+.timecircle-31-darkmodehome-icon {
+    position: absolute;
+    height: 0.22%;
+    width: 0.76%;
+    top: 9.48%;
+    right: 26.42%;
+    bottom: 90.29%;
+    left: 72.3%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+/*.timecircle-31-darkmodehome-icon {
+    position: absolute;
+    height: 18.05%;
+    width: 3.07%;
+    top: 50.07%;
+    right: 72.49%;
+    bottom: 29.88%;
+    left: 24.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.timecircle-31-darkmodehome-icon {
+    position: relative;
+    width: 100%;
+    height: 11.8px;
+    }*/
+.wrc7fiaworldrallychampion-31-d {
+    position: absolute;
+    top: 481px;
+    left: 1049px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.image-31-darkmodehome-icon {
+    position: absolute;
+    top: 471px;
+    left: 979px;
+    border-radius: 12px;
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+}
+.indicator-31-darkmodehome {
+    position: absolute;
+    top: 484px;
+    left: 961px;
+    border-radius: 0px 16px 16px 0px;
+    background-color: #ffa842;
+    width: 4px;
+    height: 29px;
+}
+.background-31-friendslists-31- {
+    position: absolute;
+    top: 43px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: #11121b;
+    width: 376px;
+    height: 146px;
+}
+.image-31-friends1-31-friendsli-icon {
+    position: relative;
+    border-radius: 8px;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+.danielgallego-31-group11712757 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.online {
+    color: #768192;
+}
+.online-31-group1171275783-31-f {
+    position: absolute;
+    top: 17px;
+    left: 0px;
+    font-size: 8px;
+    color: #a8f63c;
+}
+.group1171275783-31-friends1-31 {
+    position: relative;
+    width: 83px;
+    height: 27px;
+}
+.friends1-31-friendslist2-31-fr {
+    position: absolute;
+    top: 17px;
+    left: 22.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.add-31-addbutton-31-friendslis {
+    position: relative;
+    line-height: 20px;
+    font-weight: 500;
+}
+.addbutton-31-friendslist2-31-f {
+    position: absolute;
+    top: 23px;
+    left: 302px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 14px;
+    text-align: center;
+    font-size: 8px;
+}
+.friendslist2-31-friends-31-fri {
+    position: absolute;
+    top: 73px;
+    left: 0px;
+    width: 376px;
+    height: 73px;
+}
+.group1171275783-31-friends1-311 {
+    position: relative;
+    width: 79px;
+    height: 27px;
+}
+.friends1-31-friendslist1-31-fr {
+    position: absolute;
+    top: 24px;
+    left: 24.5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.addbutton-31-friendslist1-31-f {
+    position: absolute;
+    top: 30px;
+    left: 302px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px 14px;
+    text-align: center;
+    font-size: 8px;
+}
+.friendslist1-31-friends-31-fri {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 376px;
+    height: 73px;
+}
+.friends-31-friendslists-31-dar {
+    position: absolute;
+    top: 43px;
+    left: 0px;
+    width: 376px;
+    height: 146px;
+}
+.friendslists-31-title-31-frien {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.iconlylightarrow-rightcircle-3 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.seemore-31-title-31-friendslis {
+    position: absolute;
+    top: 1px;
+    left: 313px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: right;
+    font-size: 10px;
+    color: #768192;
+}
+.title-31-friendslists-31-darkm {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 376px;
+    height: 19px;
+    font-size: 16px;
+}
+.friendslists-31-darkmodehome {
+    position: absolute;
+    top: 680px;
+    left: 963px;
+    width: 376px;
+    height: 189px;
+    font-size: 12px;
+}
+.rectangle43075-31-darkmodehome {
+    position: absolute;
+    top: 476px;
+    left: 787px;
+    border-radius: 12px;
+    background-color: #940202;
+    width: 23px;
+    height: 7px;
+}
+.rectangle43076-31-darkmodehome {
+    position: absolute;
+    top: 476px;
+    left: 815px;
+    border-radius: 12px;
+    background-color: #11121b;
+    width: 23px;
+    height: 7px;
+}
+.rectangle43077-31-darkmodehome {
+    position: absolute;
+    top: 476px;
+    left: 843px;
+    border-radius: 12px;
+    background-color: #11121b;
+    width: 23px;
+    height: 7px;
+}
+.vector-31-darkmodehome-icon {
+    position: absolute;
+    height: 0.21%;
+    width: 0.97%;
+    top: 11%;
+    right: 40.83%;
+    bottom: 89.05%;
+    left: 58.19%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.line2-31-darkmodehome {
+    position: absolute;
+    top: 178.98px;
+    left: 922.4px;
+    width: 0px;
+    height: 827.05px;
+}
+.line4-31-darkmodehome {
+    position: absolute;
+    background: linear-gradient();
+    top: 1212.14px;
+    left: 1px;
+    width: 1439px;
+    height: 0px;
+}
+.line5-31-darkmodehome {
+    position: absolute;
+    top: 2038px;
+    left: 1px;
+    width: 1439px;
+    height: 0px;
+}
+.line6-31-darkmodehome {
+    position: absolute;
+    top: 2870px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line7-31-darkmodehome {
+    position: absolute;
+    top: 3543px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line3-31-darkmodehome {
+    position: absolute;
+    top: 161px;
+    left: 100px;
+    width: 0px;
+    height: 827.05px;
+}
+.addbutton-31-darkmodehome {
+    position: absolute;
+    top: 993px;
+    left: 1268px;
+    border-radius: 9px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 55px;
+    height: 41px;
+}
+.iconlyboldsend-31-darkmodehome {
+    position: absolute;
+    top: 1002px;
+    left: 1284px;
+    width: 20px;
+    height: 20px;
+}
+.seemore-31-darkmodehome {
+    position: absolute;
+    top: 846px;
+    left: 786px;
+    width: 45px;
+}
+.seemore-31-librarysectionhome- {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+}
+.iconlylightarrow-rightcircle-31 {
+    position: absolute;
+    top: 2px;
+    left: 50px;
+    width: 14px;
+    height: 14px;
+}
+.arrow-rightcircle-31-iconlylig {
+    position: relative;
+    top: 2px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    }
+.seemore-31-librarysectionhome-parent {
+    position: absolute;
+    top: 6px;
+    left: 591px;
+    width: 63px;
+    height: 18px;
+    cursor: pointer;
+    text-align: right;
+    font-size: 10px;
+    color: #768192;
+}
+.library-31-librarysectionhome-2 {
+    position: absolute;
+    height: 14.12%;
+    width: 20.31%;
+    top: 83.53%;
+    left: 43.23%;
+    font-weight: 600;
+    display: inline-block;
+}
+.library-31-librarysectionhome-3 {
+    position: absolute;
+    height: 14.12%;
+    width: 18.75%;
+    top: 83.53%;
+    left: 21.35%;
+    text-decoration: line-through;
+    font-weight: 600;
+    color: #768192;
+    display: inline-block;
+}
+.rectangle43042-31-discount-31- {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 100px;
+    background-color: #2063fc;
+}
+.discount-31-03-31-library-31-l1 {
+    position: absolute;
+    height: 62.5%;
+    width: 63.64%;
+    top: 18.75%;
+    left: 18.18%;
+    font-weight: 500;
+    display: inline-block;
+}
+.discount-31-03-31-library-31-l {
+    position: absolute;
+    height: 18.82%;
+    width: 17.19%;
+    top: 81.18%;
+    right: 82.81%;
+    bottom: 0%;
+    left: 0%;
+    text-align: center;
+    font-size: 8px;
+}
+.assassinscreedorigins-digitalg {
+    position: absolute;
+    height: 47.06%;
+    width: 100%;
+    top: 20%;
+    left: 0%;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    display: inline-block;
+}
+.library-31-librarysectionhome-1 {
+    position: absolute;
+    height: 29.62%;
+    width: 30.57%;
+    top: 70.38%;
+    right: 0%;
+    bottom: 0%;
+    left: 69.43%;
+}
+.library-31-librarysectionhome-5 {
+    position: absolute;
+    height: 14.12%;
+    width: 20.31%;
+    top: 83.53%;
+    left: 43.75%;
+    font-weight: 600;
+    display: inline-block;
+}
+.library-31-librarysectionhome-6 {
+    position: absolute;
+    height: 14.12%;
+    width: 18.23%;
+    top: 83.53%;
+    left: 21.35%;
+    text-decoration: line-through;
+    font-weight: 600;
+    color: #768192;
+    display: inline-block;
+}
+.library-31-librarysectionhome-4 {
+    position: absolute;
+    height: 29.62%;
+    width: 30.57%;
+    top: 70.38%;
+    right: 34.71%;
+    bottom: 0%;
+    left: 34.71%;
+}
+.library-31-librarysectionhome-8 {
+    position: absolute;
+    height: 14.12%;
+    width: 20.31%;
+    top: 83.53%;
+    left: 44.27%;
+    font-weight: 600;
+    display: inline-block;
+}
+.library-31-librarysectionhome-7 {
+    position: absolute;
+    height: 29.62%;
+    width: 30.57%;
+    top: 70.38%;
+    right: 69.43%;
+    bottom: 0%;
+    left: 0%;
+}
+.library-31-title-31-library-31 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+}
+.title-31-library-31-librarysec {
+    position: absolute;
+    height: 6.62%;
+    width: 10.67%;
+    top: 0%;
+    right: 89.33%;
+    bottom: 93.38%;
+    left: 0%;
+    font-size: 16px;
+}
+.library-31-librarysectionhome- {
+    position: absolute;
+    height: 100%;
+    width: 98.77%;
+    top: 0%;
+    right: 0.05%;
+    bottom: 0%;
+    left: 1.19%;
+    font-size: 10px;
+}
+.rectangle43080-31-rectangle430-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 16px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.buynow-31-rectangle43080-31-li {
+    position: absolute;
+    height: 16.44%;
+    width: 38.37%;
+    top: 41.78%;
+    left: 30.99%;
+    display: inline-block;
+    opacity: 0;
+}
+.rectangle43080-31-librarysecti {
+    position: absolute;
+    top: 46px;
+    left: 235px;
+    width: 203.31px;
+    height: 146px;
+}
+.rectangle43080-31-librarysecti1 {
+    position: absolute;
+    top: 46px;
+    left: 0px;
+    width: 203.31px;
+    height: 146px;
+}
+.rectangle43080-31-librarysecti2 {
+    position: absolute;
+    top: 46px;
+    left: 470px;
+    width: 203.31px;
+    height: 146px;
+}
+.librarysectionhome-31-darkmode {
+    position: absolute;
+    top: 840px;
+    left: 195px;
+    width: 673.31px;
+    height: 287px;
+    font-size: 18px;
+}
+.playstation5console-31-pssecti {
+    position: absolute;
+    top: 132px;
+    left: 0px;
+    display: inline-block;
+    width: 402px;
+    height: 49px;
+}
+.experienceanall-newgenerationo {
+    position: absolute;
+    top: 197px;
+    left: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #777692;
+    display: inline-block;
+    width: 411px;
+}
+.addbutton-31-pssectionhome-31- {
+    position: absolute;
+    top: 293px;
+    left: 2px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 117px;
+    height: 32px;
+}
+.learnmore-31-pssectionhome-31- {
+    position: absolute;
+    top: 300px;
+    left: 19px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.playstation-5-horizontal-produ-icon {
+    position: absolute;
+    top: 0px;
+    left: 543px;
+    width: 585px;
+    height: 585px;
+    object-fit: cover;
+}
+.pssectionhome-31-accsection-31 {
+    position: absolute;
+    top: 0px;
+    left: 103px;
+    width: 1128px;
+    height: 585px;
+}
+.rectangle43082-31-cardslide-31 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1240px;
+    height: 240px;
+}
+.rectangle43084-31-card1-31-car {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 20px;
+    border: 1px solid rgba(118, 129, 146, 0);
+    box-sizing: border-box;
+}
+.ps5console-31-card1-31-cardsli {
+    position: absolute;
+    top: 80.39%;
+    left: 22.22%;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.rectangle43083-31-card1-31-car-icon {
+    position: absolute;
+    height: 71.08%;
+    width: 91.11%;
+    top: 7.84%;
+    right: 4.44%;
+    bottom: 21.08%;
+    left: 4.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.card1-31-cardslide-31-accsecti {
+    position: absolute;
+    top: 18px;
+    left: 61px;
+    width: 180px;
+    height: 204px;
+}
+.rtx4090-31-card2-31-cardslide- {
+    position: absolute;
+    top: 80.39%;
+    left: 27.78%;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.card2-31-cardslide-31-accsecti {
+    position: absolute;
+    top: 18px;
+    left: 296px;
+    width: 180px;
+    height: 204px;
+}
+.vrheadset-31-card3-31-cardslid {
+    position: absolute;
+    top: 80.39%;
+    left: 23.89%;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.card3-31-cardslide-31-accsecti {
+    position: absolute;
+    top: 18px;
+    left: 531px;
+    width: 180px;
+    height: 204px;
+}
+.headsets-31-card4-31-cardslide {
+    position: absolute;
+    top: 80.39%;
+    left: 29.44%;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.card4-31-cardslide-31-accsecti {
+    position: absolute;
+    top: 18px;
+    left: 766px;
+    width: 180px;
+    height: 204px;
+}
+.keyboards-31-card5-31-cardslid {
+    position: absolute;
+    top: 80.39%;
+    left: 26.67%;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.card5-31-cardslide-31-accsecti {
+    position: absolute;
+    top: 18px;
+    left: 1001px;
+    width: 180px;
+    height: 204px;
+}
+.cardslide-31-accsection-31-dar {
+    position: absolute;
+    top: 552px;
+    left: 0px;
+    width: 1240px;
+    height: 240px;
+    font-size: 16px;
+}
+.accsection-31-darkmodehome {
+    position: absolute;
+    top: 1186px;
+    left: 100px;
+    width: 1240px;
+    height: 792px;
+    font-size: 37px;
+}
+.rectangle43087-31-col-gow-31-d-icon {
+    position: absolute;
+    top: 234.95px;
+    left: 267.05px;
+    width: 1451px;
+    height: 690px;
+    object-fit: cover;
+}
+.rectangle43088-31-col-gow-31-d {
+    position: absolute;
+    top: 723.95px;
+    left: 267.05px;
+    background: linear-gradient(180deg, rgba(165, 136, 151, 0), #277bfd);
+    width: 1451px;
+    height: 202px;
+}
+.rectangle43089-31-col-gow-31-d-icon {
+    position: absolute;
+    top: 235.95px;
+    left: 267.05px;
+    width: 780px;
+    height: 690px;
+    background: linear-gradient(180deg, rgba(165, 136, 151, 0), #277bfd);
+    position: relative;
+    width: 100%;
+    height: 690px;
+}
+.amash {
+    letter-spacing: 2.5px;
+}
+.onamash-31-text-gow-31-col-gow {
+    position: absolute;
+    top: 42px;
+    left: 0px;
+}
+.thismonth-31-text-gow-31-col-g {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    display: inline-block;
+    width: 213px;
+    height: 42px;
+}
+.checkoutthismonthsbiggestrelea {
+    position: absolute;
+    top: 126px;
+    left: 0px;
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-block;
+    width: 443px;
+}
+.text-gow-31-col-gow-31-darkmod {
+    position: absolute;
+    top: 320.95px;
+    left: 312.05px;
+    width: 443px;
+    height: 162px;
+    text-align: left;
+    font-size: 40px;
+    color: #fff;
+}
+.addbutton-31-findoutbtn-31-col {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 120px;
+    height: 24px;
+}
+.findoutmore-31-findoutbtn-31-c {
+    position: absolute;
+    top: 4px;
+    left: 18px;
+    font-weight: 500;
+}
+.findoutbtn-31-col-gow-31-darkm {
+    position: absolute;
+    top: 518.95px;
+    left: 312.05px;
+    width: 120px;
+    height: 24px;
+    text-align: left;
+    font-size: 13px;
+    color: #fff;
+}
+.rectangle43090-31-rectangle430 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 14px;
+}
+.rectangle43090-31-card-1-31-co {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14px;
+    width: 295px;
+    height: 153px;
+    background-image: url('./assets/GOWMenu-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.thebestgamesforkidsandfamilies {
+    position: absolute;
+    top: 167px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 295px;
+    height: 39px;
+}
+.card-1-31-col-gow-31-darkmodeh {
+    position: absolute;
+    top: 698.95px;
+    left: 452.05px;
+    width: 295px;
+    height: 206px;
+}
+.rectangle43091-31-card-2-31-co {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14px;
+    width: 295px;
+    height: 153px;
+    background-image: url('./assets/GOWMenu-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.thebestoffersongameconsolesacc {
+    position: absolute;
+    top: 167px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 295px;
+    height: 37px;
+}
+.card-2-31-col-gow-31-darkmodeh {
+    position: absolute;
+    top: 698.95px;
+    left: 839.05px;
+    width: 295px;
+    height: 204px;
+}
+.rectangle43092-31-card-3-31-co {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14px;
+    width: 295px;
+    height: 153px;
+    background-image: url('./assets/GOWMenu-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.card-3-31-col-gow-31-darkmodeh {
+    position: absolute;
+    top: 698.95px;
+    left: 1227.05px;
+    width: 295px;
+    height: 204px;
+}
+.col-gow-31-darkmodehome {
+    position: absolute;
+    top: 1873.05px;
+    left: -267.05px;
+    width: 1750px;
+    height: 1074.04px;
+    text-align: center;
+    font-size: 16px;
+    color: #eadbdb;
+}
+.rectangle43105-31-socialmedia- {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 536.5px);
+    background: linear-gradient(90deg, rgba(56, 52, 84, 0), #1e1b31 28.35%, #1e1b31 70.28%, rgba(56, 52, 84, 0));
+    width: 1073px;
+    height: 313px;
+}
+.followusonsocialmedia-31-socia {
+    position: absolute;
+    top: 46px;
+    left: 312px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+}
+.vector-31-socialmedia-31-darkm-icon {
+    position: absolute;
+    height: 24.92%;
+    width: 9.51%;
+    top: 50.16%;
+    right: 75.58%;
+    bottom: 24.92%;
+    left: 14.91%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-socialmedia-31-darkm-icon1 {
+    position: absolute;
+    height: 23.64%;
+    width: 6.9%;
+    top: 50.16%;
+    right: 61.79%;
+    bottom: 26.2%;
+    left: 31.31%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-socialmedia-31-darkm-icon2 {
+    position: absolute;
+    height: 24.92%;
+    width: 7.27%;
+    top: 50.16%;
+    right: 47.62%;
+    bottom: 24.92%;
+    left: 45.11%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-socialmedia-31-darkm-icon3 {
+    position: absolute;
+    height: 24.28%;
+    width: 8.76%;
+    top: 50.16%;
+    right: 31.97%;
+    bottom: 25.56%;
+    left: 59.27%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-socialmedia-31-darkm-icon4 {
+    position: absolute;
+    height: 24.28%;
+    width: 10.16%;
+    top: 50.16%;
+    right: 14.91%;
+    bottom: 25.56%;
+    left: 74.93%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.socialmedia-31-darkmodehome {
+    position: absolute;
+    top: 4412px;
+    left: calc(50% - 536px);
+    width: 1073px;
+    height: 313px;
+    font-size: 36px;
+    color: #c1baef;
+}
+
+/*Footer*/
+.rectangle43106-31-footer-31-da-icon {
+    position: absolute;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    top: 0px;
+    left: 0px;
+    width: 1466px;
+    height: 404px;
+}
+.line7-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.rectangle43107-31-footer-31-da-icon {
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    width: 77px;
+    height: 74px;
+    object-fit: cover;
+}
+.amash-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 15px;
+    left: 98px;
+    font-size: 27px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    font-family: 'Inknut Antiqua';
+    color: #c75b4e;
+    display: inline-block;
+    width: 127px;
+    height: 68px;
+}
+.about-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 104px;
+    left: 100px;
+    font-size: 17px;
+    display: inline-block;
+    width: 52px;
+    height: 17px;
+}
+.products-31-footer-31-darkmode {
+    position: absolute;
+    top: 104px;
+    left: 290px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.resources-31-footer-31-darkmod {
+    position: absolute;
+    top: 104px;
+    left: 453px;
+    font-size: 17px;
+    display: inline-block;
+    width: 93px;
+    height: 17px;
+}
+.connect-31-footer-31-darkmodeh {
+    position: absolute;
+    top: 104px;
+    left: 625px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.vector-31-footer-31-darkmodeho-icon {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 55.11%;
+    bottom: 61.39%;
+    left: 43.71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon1 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 53.3%;
+    bottom: 61.39%;
+    left: 45.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon2 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.46%;
+    top: 34.41%;
+    right: 51.22%;
+    bottom: 61.39%;
+    left: 47.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon3 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.74%;
+    top: 34.41%;
+    right: 46.63%;
+    bottom: 61.39%;
+    left: 51.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon4 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.6%;
+    top: 34.41%;
+    right: 48.99%;
+    bottom: 61.39%;
+    left: 49.41%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.about-amash {
+    margin-block-start: 0;
+    margin-block-end: 6px;
+}
+.aboutamashcareersamashstudiosa {
+    position: absolute;
+    top: 134px;
+    left: 100px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.accessoriesgamesgpuxboxplatsta {
+    position: absolute;
+    top: 134px;
+    left: 290px;
+    font-weight: 500;
+}
+.support-a-creatordistributeona {
+    position: absolute;
+    top: 134px;
+    left: 453px;
+    font-weight: 500;
+}
+.iosappandroidapp-31-footer-31- {
+    position: absolute;
+    top: 168px;
+    left: 629px;
+    font-weight: 500;
+}
+.amash1 {
+    margin-block-start: 0;
+    margin-block-end: 1px;
+}
+.more-info1 {
+    text-decoration: underline;
+}
+.more-info {
+    color: inherit;
+}
+.amashallcontentgamestitlestrad {
+    position: absolute;
+    top: 366px;
+    left: 100px;
+    font-weight: 500;
+    color: inherit;
+}
+.termsofserviceprivacypolicyref {
+    position: absolute;
+    top: 379px;
+    left: 1150px;
+    font-weight: 500;
+}
+.footer-31-darkmodehome {
+    position: absolute;
+    top: 4918px;
+    left: 1px;
+    width: 1439px;
+    height: 404px;
+}
+.thelatestnewsfromamashblog-31- {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 311px);
+    letter-spacing: 0.5px;
+    font-weight: 800;
+    text-shadow: 4px 4px 7px rgba(255, 255, 255, 0.25);
+}
+.buttonright-31-blog-slider-31-icon {
+    position: absolute;
+    top: 345px;
+    left: 0px;
+    width: 46px;
+    height: 24px;
+}
+.buttonleft-31-blog-slider-31-b-icon {
+    position: absolute;
+    top: 345px;
+    left: 1346px;
+    width: 46px;
+    height: 24px;
+}
+.rectangle43098-31-rectangle430 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 21px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+}
+.rectangle43098-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43098-31-rectangle431 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 21px;
+    background-color: #768192;
+}
+.rectangle43101-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43099-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43102-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 31px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43100-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 155px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43104-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 186px;
+    width: 21px;
+    height: 5px;
+}
+.rectangle43103-31-slider-31-bl {
+    position: absolute;
+    top: 0px;
+    left: 62px;
+    width: 21px;
+    height: 5px;
+}
+.slider-31-blog-slider-31-blogs {
+    position: absolute;
+    top: 630px;
+    left: 593px;
+    width: 207px;
+    height: 5px;
+}
+.blog-slider-31-blogslider-31-d {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 696px);
+    width: 1392px;
+    height: 635px;
+}
+.rectangle43093-31-component4-3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 14px;
+    background-color: #09080f;
+    box-shadow: 2px 2px 6px rgba(255, 255, 255, 0.25), 0px 2px 6px 2px rgba(0, 0, 0, 0.25) inset;
+    border: 1px solid #768192;
+    box-sizing: border-box;
+}
+.rectangle43096-31-component4-3-icon {
+    position: absolute;
+    height: 51.87%;
+    width: 98%;
+    top: 1.17%;
+    right: 1%;
+    bottom: 46.96%;
+    left: 1%;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.lastweekweaskedyousuitupandsha {
+    position: absolute;
+    width: 81.5%;
+    top: 61.45%;
+    left: 5.75%;
+    font-size: 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+.rectangle43097-31-group1171275-icon {
+    position: absolute;
+    height: 100%;
+    width: 29.35%;
+    top: 0%;
+    right: 70.65%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.danysintas-31-group1171275784- {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    font-size: 10px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+}
+.sep302023-31-group1171275784-3 {
+    position: absolute;
+    top: 72.97%;
+    left: 0%;
+    font-weight: 500;
+}
+.playstationblogcorrespondent-3 {
+    position: absolute;
+    top: 40.54%;
+    left: 0%;
+    font-weight: 500;
+}
+.group1171275784-31-group117127 {
+    position: absolute;
+    height: 75.51%;
+    width: 66.85%;
+    top: 12.24%;
+    right: 0%;
+    bottom: 12.24%;
+    left: 33.15%;
+}
+.group1171275787-31-slidecard1- {
+    position: absolute;
+    height: 11.45%;
+    width: 46%;
+    top: 83.64%;
+    right: 48.25%;
+    bottom: 4.91%;
+    left: 5.75%;
+    font-size: 8px;
+}
+.slidecard1-31-blogslider-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: 67.74%;
+    bottom: 0%;
+    left: 0%;
+}
+.howbaldursgate3adaptsitsexpans {
+    position: absolute;
+    width: 81.5%;
+    top: 55.61%;
+    left: 5.75%;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+}
+.baldursgate3isanexpansiverpgag {
+    position: absolute;
+    width: 81.5%;
+    top: 70.09%;
+    left: 5.75%;
+    font-size: 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+.slidecard2-31-blogslider-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: 33.87%;
+    bottom: 0%;
+    left: 33.87%;
+}
+.component2-31-slidecard3-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    opacity: 0.9;
+}
+.eternightsinfectedhackerbossba {
+    position: absolute;
+    width: 74.5%;
+    top: 55.61%;
+    left: 5.75%;
+    font-weight: 600;
+    display: inline-block;
+}
+.hieternightsfansjaeherecreator {
+    position: absolute;
+    width: 81.5%;
+    top: 65.89%;
+    left: 5.75%;
+    font-size: 10px;
+    font-weight: 600;
+    color: inherit;
+    display: inline-block;
+}
+.group1171275787-31-slidecard3- {
+    position: absolute;
+    height: 11.45%;
+    width: 46%;
+    top: 83.64%;
+    right: 48.25%;
+    bottom: 4.91%;
+    left: 5.75%;
+    font-size: 8px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.slidecard3-31-blogslider-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 67.74%;
+    color: #fff;
+}
+.rectangle43096-31-component4-3-icon1 {
+    position: absolute;
+    height: 49.07%;
+    width: 95%;
+    top: 2.57%;
+    right: 2.5%;
+    bottom: 48.36%;
+    left: 2.5%;
+    border-radius: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.playerschoicevoteforaugustsbes {
+    position: absolute;
+    width: 81.5%;
+    top: 54.21%;
+    left: 5.75%;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+}
+.lastmonthweexperiencedtitlesth {
+    position: absolute;
+    width: 81.5%;
+    top: 64.49%;
+    left: 5.75%;
+    font-size: 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+.sldecard4-31-blogslider-31-blo {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: -33.87%;
+    bottom: 0%;
+    left: 101.61%;
+}
+.slidecard5-31-blogslider-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: -67.74%;
+    bottom: 0%;
+    left: 135.48%;
+}
+.findtherightbaldursgate3classf {
+    position: absolute;
+    width: 74.5%;
+    top: 55.61%;
+    left: 5.75%;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+}
+.choicesarehardespeciallywhenyo {
+    position: absolute;
+    width: 81.5%;
+    top: 65.89%;
+    left: 5.75%;
+    font-size: 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+.slidecard6-31-blogslider-31-bl {
+    position: absolute;
+    height: 100%;
+    width: 32.26%;
+    top: 0%;
+    right: -101.61%;
+    bottom: 0%;
+    left: 169.35%;
+}
+.blogslider-31-blogslider-31-da {
+    position: absolute;
+    top: 142px;
+    left: 75px;
+    width: 1240px;
+    height: 428px;
+    overflow: hidden;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.blogslider-31-darkmodehome {
+    position: absolute;
+    top: 3600px;
+    left: calc(50% - 695px);
+    width: 1392px;
+    height: 635px;
+    font-size: 36px;
+}
+.greatgamesoutnow-31-darkmodeho {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 193px);
+    letter-spacing: 0.5px;
+    font-weight: 800;
+    text-shadow: 4px 4px 7px rgba(255, 255, 255, 0.25);
+}
+.librarysection-31-re4-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-RE4-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.residentevil4-31-re4-31-libsec {
+    position: absolute;
+    top: 171px;
+    left: 0px;
+    font-weight: 500;
+}
+.re4-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 430px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-horizon-31-l {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-Horizon-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.horizon-31-libsect-31-darkmode {
+    position: absolute;
+    top: 261px;
+    left: 430px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-gta-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-GTA-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gtav-31-gta-31-libsect-31-dark {
+    position: absolute;
+    top: 171px;
+    left: 3px;
+    font-weight: 500;
+}
+.gta-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 1075px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-fc6-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-FC6-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.fc6-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 261px;
+    left: 1075px;
+    width: 165px;
+    height: 190px;
+}
+.callofdutymodern-31-cowmw-31-l {
+    position: absolute;
+    top: 171px;
+    left: 15px;
+    font-weight: 500;
+}
+.librarysection-31-cowmw-31-lib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-COWMW-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.cowmw-31-libsect-31-darkmodeho {
+    position: absolute;
+    top: 0px;
+    left: 215px;
+    width: 181px;
+    height: 190px;
+}
+.librarysection-31-wdl-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-WDL-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.wdl-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 860px;
+    width: 165px;
+    height: 190px;
+}
+.grandturismo7-31-gt7-31-libsec {
+    position: absolute;
+    top: 171px;
+    left: 12px;
+    font-weight: 500;
+}
+.librarysection-31-gt7-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-GT7-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gt7-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 261px;
+    left: 215px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-rdr2-31-libs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-RDR2-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.rdr2-31-libsect-31-darkmodehom {
+    position: absolute;
+    top: 261px;
+    left: 860px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-tlou1-31-lib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-TLOU1-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.tlou1-31-libsect-31-darkmodeho {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-gow-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-GOW-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gow-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 645px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-fifa23-31-li {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-FIFA23-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.fifa23-31-libsect-31-darkmodeh {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-unc4-31-libs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/LibrarySection-31-Unc4-31-LibSEct-31-DarkModeHome.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.unc4-31-libsect-31-darkmodehom {
+    position: absolute;
+    top: 261px;
+    left: 645px;
+    width: 165px;
+    height: 190px;
+}
+.libsect-31-darkmodehome {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    width: 1240px;
+    height: 451px;
+    font-size: 16px;
+}
+.lib-section-home {
+    position: absolute;
+    top: 2925px;
+    left: calc(50% - 620px);
+    width: 1240px;
+    height: 546px;
+    font-size: 36px;
+}
+.home {
+    position: relative;
+    border-radius: 25px;
+    background-color: #09080f;
+    width: 100%;
+    height: 5322px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 10px;
+    color: #fff;
+    font-family: Inter;
+}
+

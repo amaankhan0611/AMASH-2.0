@@ -1,0 +1,1891 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+/*Sidemenu*/
+.SideMenu-Bar {
+    position: absolute;
+    top: 42px;
+    left: 0px;
+    width: 104px;
+    height: 982px;
+}
+
+.main-page-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 200px;
+}
+.main-page-section-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-games-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    background-color: #11121b;
+    /*background-color: #194bfb;*/
+    top: 220px;
+}
+.indicator-sidemenu {
+    position: absolute;
+    border-radius: 0px 16px 16px 0px;
+    background-color: #a8f63c;
+    width: 5%;
+    height: 48px;
+}
+.menu-games-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-accessories-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 240px;
+    /*background-color: #194bfb;*/
+}
+.menu-accesories-icon {
+    position: relative;
+    width: 100%;
+    height: 22px;
+    top: 10px;
+}
+
+.menu-gpu-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 260px;
+    /*background-color: #194bfb;*/
+}
+.menu-gpu-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+
+.menu-folder-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 280px;
+    /*background-color: #194bfb;*/
+}
+.menu-folder-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+.menu-Community-section {
+    position: relative;
+    width: 100%;
+    height: 48px;
+    top: 300px;
+    /*background-color: #194bfb;*/
+}
+.menu-Community-icon {
+    position: relative;
+    width: 100%;
+    height: 24px;
+    top: 10px;
+}
+/*SideMenu End*/
+
+
+.background-31-rightmenu-31-dar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 462px;
+    height: 982px;
+}
+.rightmenu-31-darkmodehome {
+    position: absolute;
+    top: 2px;
+    left: 917px;
+    width: 462px;
+    height: 982px;
+}
+.dashboard-31-darkmodehome {
+    position: absolute;
+    top: 29px;
+    left: 1145px;
+    border-radius: 16px;
+    width: 163px;
+    height: 65px;
+}
+.gaming-website-logo-name-amash-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 73px;
+    height: 73px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.vector-31-searchbar-31-navbar-icon {
+    position: relative;
+    width: 20.5px;
+    height: 20.5px;
+}
+.search-31-searchbar-31-navbar- {
+    position: relative;
+}
+.searchbar-31-navbar-31-darkmod {
+    position: absolute;
+    top: 19px;
+    left: calc(50% - 219px);
+    border-radius: 21px;
+    background-color: #11121b;
+    width: 434px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 16px;
+    box-sizing: border-box;
+    gap: 12px;
+}
+.image-31-profile-31-navbar-31-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.chidieze-31-profile-31-navbar- {
+    position: absolute;
+    top: 5px;
+    left: 62px;
+    font-weight: 500;
+}
+.online-31-profile-31-navbar-31 {
+    position: absolute;
+    top: 30px;
+    left: 72px;
+    font-size: 10px;
+    color: #768192;
+}
+.iconlylightarrow-down3-31-prof {
+    position: absolute;
+    top: 8px;
+    left: 139px;
+    width: 12px;
+    height: 12px;
+}
+.ellipse100-31-profile-31-navba {
+    position: absolute;
+    top: 34px;
+    left: 62px;
+    border-radius: 50%;
+    background-color: #a8f63c;
+    width: 4px;
+    height: 4px;
+}
+.profile-31-navbar-31-darkmodeh {
+    position: absolute;
+    top: 14px;
+    left: 1129px;
+    width: 151px;
+    height: 48px;
+    font-size: 14px;
+    color: #fff;
+}
+.line-31-navbar-31-darkmodehome {
+    position: absolute;
+    top: 14px;
+    left: 1107px;
+    width: 0px;
+    height: 48px;
+}
+.settings-31-navbar-31-darkmode-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 14px;
+    left: 886px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.iconlybulksetting-31-settings- {
+    position: relative;
+    top: 12px;
+    width: 100%;
+    height: 24px;
+}
+
+.notification-31-navbar-31-dark-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 13.88px;
+    left: 954px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.cart-31-navbar-31-darkmodehome-icon {
+    position: absolute;
+    background-color: #11121B;
+    top: 12px;
+    left: 1022px;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+}
+.navbar-31-darkmodehome {
+    position: absolute;
+    top: 24px;
+    left: 23px;
+    width: 1280px;
+    height: 73px;
+    font-size: 10px;
+    color: #768192;
+}
+
+.line4-31-darkmodehome {
+    position: absolute;
+    top: 620px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line4-31-darkmodehome1 {
+    position: absolute;
+    top: 1216px;
+    left: 1px;
+    width: 1439px;
+    height: 0px;
+}
+.line5-31-darkmodehome {
+    position: absolute;
+    top: 2012px;
+    left: 1px;
+    width: 1439px;
+    height: 0px;
+}
+.line6-31-darkmodehome {
+    position: absolute;
+    top: 3138px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line6-31-darkmodehome1 {
+    position: absolute;
+    top: 2626px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line6-31-darkmodehome2 {
+    position: absolute;
+    top: 2034px;
+    left: 490px;
+    width: 0px;
+    height: 550px;
+}
+.line6-31-darkmodehome3 {
+    position: absolute;
+    top: 2034px;
+    left: 951px;
+    width: 0px;
+    height: 550px;
+}
+.line7-31-darkmodehome {
+    position: absolute;
+    top: 3765px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.line3-31-darkmodehome {
+    position: absolute;
+    top: 207px;
+    left: 100px;
+    width: 0px;
+    height: 827.05px;
+}
+.seemore-31-darkmodehome {
+    position: absolute;
+    top: 846px;
+    left: 786px;
+    width: 45px;
+}
+.rectangle43106-31-footer-31-da-icon {
+    position: absolute;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    top: 0px;
+    left: 0px;
+    width: 1466px;
+    height: 404px;
+}
+.line7-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 86px;
+    left: 0px;
+    width: 1439px;
+    height: 0px;
+}
+.rectangle43107-31-footer-31-da-icon {
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    width: 77px;
+    height: 74px;
+    object-fit: cover;
+}
+.amash-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 15px;
+    left: 98px;
+    font-size: 27px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    font-family: 'Inknut Antiqua';
+    color: #c75b4e;
+    display: inline-block;
+    width: 127px;
+    height: 68px;
+}
+.about-31-footer-31-darkmodehom {
+    position: absolute;
+    top: 104px;
+    left: 100px;
+    font-size: 17px;
+    display: inline-block;
+    width: 52px;
+    height: 17px;
+}
+.products-31-footer-31-darkmode {
+    position: absolute;
+    top: 104px;
+    left: 290px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.resources-31-footer-31-darkmod {
+    position: absolute;
+    top: 104px;
+    left: 453px;
+    font-size: 17px;
+    display: inline-block;
+    width: 93px;
+    height: 17px;
+}
+.connect-31-footer-31-darkmodeh {
+    position: absolute;
+    top: 104px;
+    left: 625px;
+    font-size: 17px;
+    display: inline-block;
+    width: 77px;
+    height: 17px;
+}
+.vector-31-footer-31-darkmodeho-icon {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 55.11%;
+    bottom: 61.39%;
+    left: 43.71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon1 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.18%;
+    top: 34.41%;
+    right: 53.3%;
+    bottom: 61.39%;
+    left: 45.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon2 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.46%;
+    top: 34.41%;
+    right: 51.22%;
+    bottom: 61.39%;
+    left: 47.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon3 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.74%;
+    top: 34.41%;
+    right: 46.63%;
+    bottom: 61.39%;
+    left: 51.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-31-footer-31-darkmodeho-icon4 {
+    position: absolute;
+    height: 4.21%;
+    width: 1.6%;
+    top: 34.41%;
+    right: 48.99%;
+    bottom: 61.39%;
+    left: 49.41%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.about-amash {
+    margin-block-start: 0;
+    margin-block-end: 6px;
+}
+.corporate {
+    margin: 0;
+}
+.aboutamashcareersamashstudiosa {
+    position: absolute;
+    top: 134px;
+    left: 100px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.accessoriesgamesgpuxboxplatsta {
+    position: absolute;
+    top: 134px;
+    left: 290px;
+    font-weight: 500;
+}
+.support-a-creatordistributeona {
+    position: absolute;
+    top: 134px;
+    left: 453px;
+    font-weight: 500;
+}
+.iosappandroidapp-31-footer-31- {
+    position: absolute;
+    top: 168px;
+    left: 629px;
+    font-weight: 500;
+}
+.amash {
+    margin-block-start: 0;
+    margin-block-end: 1px;
+}
+.more-info1 {
+    text-decoration: underline;
+}
+.more-info {
+    color: inherit;
+}
+.amashallcontentgamestitlestrad {
+    position: absolute;
+    top: 366px;
+    left: 100px;
+    font-weight: 500;
+    color: inherit;
+}
+.termsofserviceprivacypolicyref {
+    position: absolute;
+    top: 379px;
+    left: 1150px;
+    font-weight: 500;
+}
+.footer-31-darkmodehome {
+    position: absolute;
+    top: 4360px;
+    left: 0px;
+    width: 1439px;
+    height: 404px;
+    font-size: 10px;
+}
+
+/*GreatGames*/
+.rectangle43114-31-librarysecti {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.librarysection-31-re4-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.residentevil4-31-re4-31-libsec {
+    position: absolute;
+    top: 171px;
+    left: 0px;
+    font-weight: 500;
+}
+.re4-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 430px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-horizon-31-l {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames9.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.horizon-31-libsect-31-darkmode {
+    position: absolute;
+    top: 261px;
+    left: 430px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-gta-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames6.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gtav-31-gta-31-libsect-31-dark {
+    position: absolute;
+    top: 171px;
+    left: 3px;
+    font-weight: 500;
+}
+.gta-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 1075px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-fc6-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames12.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.fc6-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 261px;
+    left: 1075px;
+    width: 165px;
+    height: 190px;
+}
+.callofdutymodern-31-cowmw-31-l {
+    position: absolute;
+    top: 171px;
+    left: 15px;
+    font-weight: 500;
+}
+.librarysection-31-cowmw-31-lib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.cowmw-31-libsect-31-darkmodeho {
+    position: absolute;
+    top: 0px;
+    left: 215px;
+    width: 181px;
+    height: 190px;
+}
+.librarysection-31-wdl-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.wdl-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 860px;
+    width: 165px;
+    height: 190px;
+}
+.grandturismo7-31-gt7-31-libsec {
+    position: absolute;
+    top: 171px;
+    left: 12px;
+    font-weight: 500;
+}
+.librarysection-31-gt7-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames8.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gt7-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 261px;
+    left: 215px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-rdr2-31-libs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames11.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.rdr2-31-libsect-31-darkmodehom {
+    position: absolute;
+    top: 261px;
+    left: 860px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-tlou1-31-lib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.tlou1-31-libsect-31-darkmodeho {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-gow-31-libse {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gow-31-libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 645px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-fifa23-31-li {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames7.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.fifa23-31-libsect-31-darkmodeh {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    width: 165px;
+    height: 190px;
+}
+.librarysection-31-unc4-31-libs {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    height: 165px;
+    background-image: url('./assets/GreatGames10.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.unc4-31-libsect-31-darkmodehom {
+    position: absolute;
+    top: 261px;
+    left: 645px;
+    width: 165px;
+    height: 190px;
+}
+.libsect-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1240px;
+    height: 451px;
+}
+.lib-section-home {
+    position: absolute;
+    top: 3264px;
+    left: 100px;
+    width: 1240px;
+    height: 451px;
+    font-size: 16px;
+}
+/*Great Games End*/
+
+.most-played {
+    position: absolute;
+    top: 2046px;
+    left: calc(50% - 620px);
+    font-size: 25px;
+    line-height: 32px;
+    font-weight: 500;
+    text-align: center;
+}
+.new-releases {
+    position: absolute;
+    top: 2046px;
+    left: calc(50% - 158px);
+    font-size: 25px;
+    line-height: 32px;
+    font-weight: 500;
+    text-align: center;
+}
+.most-popular {
+    position: absolute;
+    top: 2046px;
+    left: calc(50% + 305px);
+    font-size: 25px;
+    line-height: 32px;
+    font-weight: 500;
+    text-align: center;
+}
+.background-31-banner-31-darkmo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 1176.38px;
+    height: 431px;
+}
+.banner-31-darkmodehome {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1176.38px;
+    height: 431px;
+    opacity: 0.5;
+}
+.main-child {
+    position: absolute;
+    top: 58px;
+    left: 33px;
+    width: 415px;
+    height: 182px;
+    object-fit: cover;
+}
+.main-item {
+    position: absolute;
+    top: 0px;
+    left: 592px;
+    width: 312px;
+    height: 297px;
+    object-fit: cover;
+}
+.main-inner {
+    position: absolute;
+    top: 317px;
+    left: 0px;
+    border-radius: 13px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 997px;
+    height: 78px;
+    opacity: 0.1;
+}
+.experience-the-past {
+    position: absolute;
+    top: 356px;
+    left: 16px;
+    line-height: 32px;
+    font-weight: 300;
+}
+.nba-2k24 {
+    position: absolute;
+    top: 324px;
+    left: 13px;
+    font-size: 30px;
+    line-height: 32px;
+}
+.add-button {
+    position: absolute;
+    top: 344px;
+    left: 853px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 125px;
+    height: 29px;
+}
+
+.pre-order-now {
+    position: absolute;
+    top: 343px;
+    left: 873px;
+    font-size: 12px;
+    line-height: 32px;
+}
+.main1 {
+    position: absolute;
+    top: 30px;
+    left: 115px;
+    width: 997px;
+    height: 395px;
+}
+.main {
+    position: absolute;
+    top: 161px;
+    left: 162px;
+    width: 1176.38px;
+    height: 431px;
+    text-align: center;
+    font-size: 15px;
+}
+.gamespage-lib-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 10px;
+}
+.gamespage-lib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib1 {
+    position: absolute;
+    top: 0px;
+    left: 268px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib2 {
+    position: absolute;
+    top: 244px;
+    left: 273px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-6.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib3 {
+    position: absolute;
+    top: 0px;
+    left: 804px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib4 {
+    position: absolute;
+    top: 0px;
+    left: 536px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib5 {
+    position: absolute;
+    top: 244px;
+    left: 0px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib6 {
+    position: absolute;
+    top: 244px;
+    left: 804px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-7.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib7 {
+    position: absolute;
+    top: 244px;
+    left: 536px;
+    border-radius: 10px;
+    width: 210px;
+    height: 210px;
+    background-image: url('./assets/Gamespage\ Lib-8.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespagelibsection {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1014px;
+    height: 454px;
+}
+.add-button1 {
+    position: absolute;
+    top: 494px;
+    left: 442px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 119px;
+    height: 28px;
+}
+.show-more {
+    position: absolute;
+    top: 492px;
+    left: 472px;
+    line-height: 32px;
+}
+.libgamepage {
+    position: absolute;
+    top: 651px;
+    left: 218px;
+    width: 1014px;
+    height: 524px;
+    text-align: center;
+    font-size: 11px;
+}
+
+/*Trending Page*/
+.gamespage-lib8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib9 {
+    position: absolute;
+    top: 0px;
+    left: 536px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib10 {
+    position: absolute;
+    top: 0px;
+    left: 268px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib11 {
+    position: absolute;
+    top: 0px;
+    left: 804px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('/assets/TrendingPage-4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib12 {
+    position: absolute;
+    top: 308px;
+    left: 0px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib13 {
+    position: absolute;
+    top: 308px;
+    left: 536px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-7.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib14 {
+    position: absolute;
+    top: 308px;
+    left: 268px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-6.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.gamespage-lib15 {
+    position: absolute;
+    top: 308px;
+    left: 804px;
+    border-radius: 10px;
+    width: 210px;
+    height: 275px;
+    background-image: url('./assets/TrendingPage-8.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+/*Trending Page Ends*/
+
+.add-button2 {
+    position: absolute;
+    top: 623px;
+    left: 442px;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 119px;
+    height: 28px;
+}
+.explore-more {
+    position: absolute;
+    top: 621px;
+    left: 467px;
+    line-height: 32px;
+}
+
+.trendinggamepage {
+    position: absolute;
+    top: 79px;
+    left: 0px;
+    width: 1014px;
+    height: 653px;
+    font-size: 11px;
+}
+.trending1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 76px);
+    line-height: 32px;
+    font-weight: 600;
+}
+.top-10-games {
+    position: absolute;
+    top: 1421px;
+    left: calc(50% - 235px);
+    line-height: 32px;
+    font-weight: 600;
+}
+.great-games-out {
+    position: absolute;
+    top: 1942px;
+    left: calc(50% - 170px);
+    line-height: 32px;
+    font-weight: 600;
+}
+.this-week {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 44px);
+    font-size: 17px;
+    line-height: 32px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.75);
+}
+.trending {
+    position: absolute;
+    top: 1245px;
+    left: 218px;
+    width: 1014px;
+    height: 1974px;
+    text-align: center;
+    font-size: 33px;
+}
+.games-child {
+    position: absolute;
+    top: 2112px;
+    left: 562px;
+    width: 315px;
+    height: 531px;
+}
+.games-item {
+    position: absolute;
+    top: 2112px;
+    left: 1025px;
+    width: 315px;
+    height: 531px;
+}
+.dashboard {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px;
+    width: 315px;
+    height: 92px;
+}
+.group-child {
+    position: absolute;
+    top: 6px;
+    left: 17px;
+    border-radius: 5px;
+    width: 68px;
+    height: 80px;
+    object-fit: cover;
+}
+.fortnite {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.free {
+    position: absolute;
+    top: 17px;
+    left: 1px;
+    font-size: 10px;
+}
+.fortnite-parent {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 54px;
+    height: 29px;
+}
+.dashboard-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 315px;
+    height: 92px;
+}
+.rocket-league-parent {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 101px;
+    height: 29px;
+}
+.dashboard-group {
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    width: 315px;
+    height: 92px;
+}
+.valorant-parent {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 57px;
+    height: 29px;
+}
+.dashboard-container {
+    position: absolute;
+    top: 285px;
+    left: 0px;
+    width: 315px;
+    height: 92px;
+}
+.genshin-impact-parent {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 106px;
+    height: 29px;
+}
+.group-div {
+    position: absolute;
+    top: 380px;
+    left: 0px;
+    width: 315px;
+    height: 92px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 2px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 40px;
+    height: 18px;
+}
+.b {
+    position: absolute;
+    top: 3px;
+    left: 6px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 24px;
+    left: 1px;
+    width: 40px;
+    height: 18px;
+    font-size: 10px;
+}
+.grand-theft-auto-v-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 136px;
+    height: 42px;
+}
+.div {
+    position: absolute;
+    top: 27px;
+    left: 54px;
+    font-size: 10px;
+    font-weight: 600;
+}
+.vector-icon {
+    position: absolute;
+    height: 19.05%;
+    width: 3.68%;
+    top: 69.05%;
+    right: 61.03%;
+    bottom: 11.9%;
+    left: 35.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-parent {
+    position: absolute;
+    top: 25px;
+    left: 104px;
+    width: 136px;
+    height: 42px;
+}
+.dashboard-parent1 {
+    position: absolute;
+    top: 190px;
+    left: 0px;
+    width: 315px;
+    height: 92px;
+}
+.mostplayed {
+    position: absolute;
+    top: 2112px;
+    left: 100px;
+    width: 315px;
+    height: 472px;
+}
+.alan-wake-ii-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 83px;
+    height: 17px;
+}
+.witchfire-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 63px;
+    height: 17px;
+}
+.payday-3-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 68px;
+    height: 17px;
+}
+.hades-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 44px;
+    height: 17px;
+}
+.dashboard9 {
+    position: absolute;
+    top: 140px;
+    left: 0px;
+    border-radius: 6px;
+    width: 315px;
+    height: 92px;
+}
+.group-child7 {
+    position: absolute;
+    top: 146px;
+    left: 17px;
+    border-radius: 5px;
+    width: 68px;
+    height: 80px;
+    object-fit: cover;
+}
+.metro-exodus-wrapper {
+    position: absolute;
+    top: 165px;
+    left: 0px;
+    width: 94px;
+    height: 17px;
+    font-size: 14px;
+}
+.div1 {
+    position: absolute;
+    top: 184px;
+    left: 6px;
+    font-weight: 600;
+}
+.div2 {
+    position: absolute;
+    top: 286px;
+    left: 6px;
+    font-weight: 600;
+}
+.div3 {
+    position: absolute;
+    top: 381px;
+    left: 7px;
+    font-weight: 600;
+}
+.div4 {
+    position: absolute;
+    top: 96px;
+    left: 7px;
+    font-weight: 600;
+}
+.div5 {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    font-weight: 600;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 2.04%;
+    width: 5.32%;
+    top: 47.33%;
+    right: 94.68%;
+    bottom: 50.64%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon2 {
+    position: absolute;
+    height: 2.04%;
+    width: 5.32%;
+    top: 73.28%;
+    right: 94.68%;
+    bottom: 24.68%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 2.04%;
+    width: 5.32%;
+    top: 97.46%;
+    right: 93.62%;
+    bottom: 0.51%;
+    left: 1.06%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 2.04%;
+    width: 5.32%;
+    top: 24.94%;
+    right: 93.62%;
+    bottom: 73.03%;
+    left: 1.06%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon5 {
+    position: absolute;
+    height: 2.04%;
+    width: 5.32%;
+    top: 0.51%;
+    right: 94.68%;
+    bottom: 97.46%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 104px;
+    width: 94px;
+    height: 393px;
+}
+.dashboard-parent6 {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 315px;
+    height: 393px;
+    font-size: 10px;
+}
+.mostplayed1 {
+    position: absolute;
+    top: 2112px;
+    left: 562px;
+    width: 315px;
+    height: 472px;
+}
+.assassins-creed-valhalla {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.assassins-creed-valhalla-wrapper {
+    position: absolute;
+    top: 32px;
+    left: 104px;
+    width: 173px;
+    height: 17px;
+}
+.group-child12 {
+    position: absolute;
+    top: 171px;
+    left: 17px;
+    border-radius: 5px;
+    width: 68px;
+    height: 80px;
+    object-fit: cover;
+}
+.dashboard14 {
+    position: absolute;
+    top: 165px;
+    left: 0px;
+    border-radius: 6px;
+    width: 315px;
+    height: 92px;
+}
+.naraka-bladepoint-parent {
+    position: absolute;
+    top: 196px;
+    left: 104px;
+    width: 129px;
+    height: 29px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 95px;
+    left: 104px;
+    width: 136px;
+    height: 42px;
+}
+.red-dead-redemption-2-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 163px;
+    height: 42px;
+}
+.vector-icon7 {
+    position: absolute;
+    height: 19.05%;
+    width: 3.07%;
+    top: 69.05%;
+    right: 67.48%;
+    bottom: 11.9%;
+    left: 29.45%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 105px;
+    width: 163px;
+    height: 42px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    width: 315px;
+    height: 257px;
+}
+.mostplayed2 {
+    position: absolute;
+    top: 2112px;
+    left: 1026px;
+    width: 315px;
+    height: 472px;
+}
+.vector-icon8 {
+    position: absolute;
+    height: 0.17%;
+    width: 0.35%;
+    top: 51.44%;
+    left: 77.1%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div8 {
+    position: absolute;
+    top: 2449px;
+    left: 1136px;
+    font-size: 10px;
+    font-weight: 600;
+}
+.seemore-31-seemore-31-title-31 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.iconlylightarrow-rightcircle-3 {
+    position: absolute;
+    top: 0px;
+    left: 68px;
+    width: 18px;
+    height: 18px;
+}
+.seemore-31-title-31-friendslis {
+    position: absolute;
+    top: 2053px;
+    left: 329px;
+    width: 86px;
+    height: 18px;
+    text-align: right;
+    font-size: 15px;
+    color: #768192;
+}
+.seemore-31-title-31-friendslis1 {
+    position: absolute;
+    top: 2053px;
+    left: 791px;
+    width: 86px;
+    height: 18px;
+    text-align: right;
+    font-size: 15px;
+    color: #768192;
+}
+.seemore-31-title-31-friendslis2 {
+    position: absolute;
+    top: 2053px;
+    left: 1255px;
+    width: 86px;
+    height: 18px;
+    text-align: right;
+    font-size: 15px;
+    color: #768192;
+}
+.add-button-4 {
+    position: absolute;
+    border-radius: 100px;
+    background: linear-gradient(135deg, #35aaff, #194bfb);
+    width: 50px;
+    height: 32px;
+    left: 96%;
+    top: 45%;
+}
+
+
+.top10games-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 26px;
+    opacity: 0;
+}
+.top10games-item {
+    position: absolute;
+    height: 93.37%;
+    width: 93.45%;
+    top: 3.31%;
+    right: 3.27%;
+    bottom: 3.31%;
+    left: 3.27%;
+    border-radius: 26px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.top10games1 {
+    position: absolute;
+    top: 14px;
+    left: 0px;
+    width: 336px;
+    height: 362px;
+}
+.top10games2 {
+    position: absolute;
+    top: 14px;
+    left: 700px;
+    width: 336px;
+    height: 362px;
+}
+.top10games3 {
+    position: absolute;
+    top: 14px;
+    left: 350px;
+    width: 336px;
+    height: 362px;
+}
+.top10games4 {
+    position: absolute;
+    top: 14px;
+    left: 1050px;
+    width: 336px;
+    height: 362px;
+}
+.group-icon {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: 1366px;
+    width: 35px;
+    height: 20px;
+}
+.top10games {
+    position: absolute;
+    top: 2720px;
+    left: calc(50% - 707px);
+    width: 1414px;
+    height: 389px;
+    overflow: hidden;
+}
+.top10games5 {
+    position: absolute;
+    top: 3861px;
+    left: 100px;
+    width: 400px;
+    height: 293px;
+}
+.top10games6 {
+    position: absolute;
+    top: 3861px;
+    left: 520px;
+    width: 400px;
+    height: 293px;
+}
+.top10games7 {
+    position: absolute;
+    top: 3861px;
+    left: 940px;
+    width: 400px;
+    height: 293px;
+}
+.sales-specials {
+    position: absolute;
+    top: 4163px;
+    left: 113px;
+    font-size: 29px;
+    font-weight: 500;
+}
+.free-games {
+    position: absolute;
+    top: 4163px;
+    left: 533px;
+    font-size: 29px;
+    font-weight: 500;
+}
+.check-out-all {
+    position: absolute;
+    top: 4163px;
+    left: 953px;
+    font-size: 29px;
+    font-weight: 500;
+    display: inline-block;
+    width: 326px;
+}
+.save-big-on {
+    position: absolute;
+    top: 4207px;
+    left: 113px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    width: 326px;
+}
+.explore-free-and {
+    position: absolute;
+    top: 4207px;
+    left: 533px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    width: 326px;
+}
+.browse1 {
+    position: absolute;
+    top: 15.38%;
+    left: 23.62%;
+    font-weight: 500;
+}
+.browse-child {
+    position: absolute;
+    height: 1.92%;
+    width: 54.62%;
+    top: 56.73%;
+    right: 22.3%;
+    bottom: 41.35%;
+    left: 23.08%;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+}
+.browse {
+    position: absolute;
+    top: 4255px;
+    left: 92px;
+    width: 93px;
+    height: 52px;
+    font-size: 19px;
+}
+.browse-item {
+    position: absolute;
+    height: 1.92%;
+    width: 54.33%;
+    top: 56.73%;
+    right: 22.44%;
+    bottom: 41.35%;
+    left: 23.23%;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+}
+.browse2 {
+    position: absolute;
+    top: 4255px;
+    left: 504px;
+    width: 127px;
+    height: 52px;
+    font-size: 19px;
+}
+.browse4 {
+    position: absolute;
+    top: 4226px;
+    left: 925px;
+    width: 127px;
+    height: 52px;
+    font-size: 19px;
+}
+.games {
+    position: relative;
+    border-radius: 25px;
+    background-color: #09080f;
+    width: 100%;
+    height: 4764px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+    font-family: Inter;
+}
+
